@@ -1,0 +1,1 @@
+gh repo list your-username --limit 1000 --json name --jq '.[].name'
